@@ -1,5 +1,5 @@
 # Zphisher-RMIT-Cybersecurity-Project
-One of the Red teaming activities for my RMIT Cybersecurity Project
+One of the Red teaming activities from my [RMIT Cybersecurity Project](https://github.com/Kazu010101/RMIT-Cybersecurity-Project/blob/main/README.md)
 
 ## Objective
 
@@ -55,9 +55,10 @@ The username and password of the victim who clicked and entered the login creden
 
 ## Result
 
-We demonstrated how the victim fell to the attack and gave in the credentials to the attacker. In the actual world, the success of the attack depends on whether or not the victim is aware of the phising email.
+We demonstrated how the victim clicked the link and gave in the credentials to the attacker. With the credentials, the attacker could hack into the victim's account. However in the actual world, the success of the attack depends on whether or not the victim is aware of the phising email.
 
 ## Mitigation Plan
 
-- Routine cybersecurity awareness training to the employees on how to identify and respond against phising email.
-- On endpoint devices, install email filtering and security software to detect and block email from malicious domains.
+- Routine cybersecurity awareness training to the employees on how to identify and respond against phishing emails.
+- On endpoint devices, install email filtering and security software to detect and block emails from malicious domains.
+- Implement Multi Factor Authentication on staff accounts
