@@ -55,7 +55,7 @@ The username and password of the victim who clicked and entered the login creden
 
 ## Result
 
-We demonstrated how the victim clicked the link and gave in the credentials to the attacker. With the credentials, the attacker could hack into the victim's account. However in the actual world, the success of the attack depends on whether or not the victim is aware of the phising email.
+We demonstrated how the victim clicked the link and gave in the credentials to the attacker. After stealing the victim's credentials, the attacker could hack into the victim's account. However in the actual world, the success of this attack depends on whether or not the victim's cybersecurity awareness against phishing emails.
 
 ## Mitigation Plan
 
