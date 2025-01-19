@@ -37,7 +37,7 @@ During reconaisance phase, the attacker discovered email address on one of the X
 
 *Figure 2: After setting the host type and custom port preference (1), a phishing link is generated (2). Note that some options of the app template may not work anymore.*
 
-**Phising Attack**
+**Phishing Attack**
 
 At this point, the method to deliver the phishing link to the victim could be various; the most common ones are through personalized email and text messages. 
 
